@@ -4,6 +4,8 @@ make script into executable by typing below command in Terminal
 
 chmod +x webgoat.sh
 
+./webgoat.sh
+
 Pull webgoat
 
 docker pull webgoat/webgoat-7.1
