@@ -27,3 +27,5 @@ $ http://localhost:8000/WebGoat/
 $ docker pull infoslack/dvwa
 
 $ docker run -p 81:80 infoslack/dvwa  
+
+$ http://localhost:81/login.php
